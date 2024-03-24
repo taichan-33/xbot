@@ -3,7 +3,7 @@
 ![73a97b083639a0c28c6ddb2b10a92ceea534bd3b65ffb9a79e3787 49856993](https://github.com/taichan-33/xbot/assets/151983276/1446d8e1-c702-409d-ae48-96eca2b28530)
 
 
-このリポジトリは、Google Apps Script（GAS）を使用して、AI生成画像をGoogle DriveからTwitterに自動投稿するシステムのソースコードを含んでいます。
+このリポジトリは、Google Apps Script（GAS）を使用して、画像をGoogle DriveからTwitterに自動投稿するシステムのソースコードを含んでいます。
 
 システムは、OpenAI APIを使用して画像の分析とキャプションの生成を行い、X（旧Twitter）のAPIを使用して投稿を行います。
 
